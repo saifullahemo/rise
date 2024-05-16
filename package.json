@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "cypress": "^12.17.0"
+    "cypress": "^13.9.0"
   },
   "dependencies": {
     "@google/generative-ai": "^0.1.3",
